@@ -6,7 +6,7 @@
 
 I'm a Computer Science student based in Nairobi, Kenya, passionate about building software that solves real-world problems. From web and mobile apps to low-level systems programming, I enjoy working across the full spectrum of software development. I'm currently sharpening my skills and building projects that will matter — with internships and opportunities in my sights for 2026.
 
-- 🔭 **Current Focus:** Building [UniPooL](https://github.com/KensonLagat/UniPooL) — a university carpool platform connecting students for shared rides
+- 🔭 **Current Focus:** Building [UniPooL](https://github.com/kensonlagat/UniPooL) — a university carpool platform connecting students for shared rides
 - 🌱 **Learning & Exploration:** TypeScript, Kotlin for Android, and deepening my Node.js backend skills
 - ⚡ **Core Interests:** Mobile development, full-stack web apps, and systems-level programming
 
@@ -41,20 +41,20 @@ I'm a Computer Science student based in Nairobi, Kenya, passionate about buildin
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KensonLagat&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kensonlagat&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KensonLagat&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kensonlagat&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KensonLagat&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kensonlagat&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 ## Connect With Me
 
-- 📧 **Direct Contact:** kenson.lagat@strathmore.edu
+- 📧 **Direct Contact:** [your email here]
 
 > 💼 *Open to internships and collaborative projects — especially in mobile, web, or systems development.*
 
